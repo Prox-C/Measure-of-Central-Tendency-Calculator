@@ -1,2 +1,2 @@
-# Measure-of-Central-Tendency-Calculator
+# Measure of Central Tendency Calculator
 
